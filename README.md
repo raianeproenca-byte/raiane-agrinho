@@ -1,1 +1,92 @@
-# raiane-agrinho
+# raiane-agrinho <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrinho 2026 - Meio Ambiente</title>
+    <link class="sub-buttons" rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>AGRINHO 2026</h1>
+        <p>Meio Ambiente: Preservar o Presente para Salvar o Futuro</p>
+    </header>
+
+    <nav>
+        <a href="#inicio">Início</a>
+        <a href="#sobre">O Projeto</a>
+        <a href="#ecossistemas">Ecossistemas</a>
+        <a href="#acoes">Ações Coletivas</a>
+        <a href="#biodiversidade">Biodiversidade</a>
+    </nav>
+
+    <section id="inicio" class="banner">
+        <div class="overlay">
+            <h2>Consciência Ecológica no Campo e na Cidade</h2>
+            <p>Proteger a natureza é uma missão de todos nós. Juntos pela sustentabilidade!</p>
+        </div>
+    </section>
+
+    <section id="sobre" class="conteudo">
+        <h2>Sobre o Projeto</h2>
+        <p>
+            O Programa Agrinho 2026 convida todos a refletirem sobre o impacto de nossas ações no meio ambiente. 
+            Este espaço foi criado para disseminar práticas ecológicas, promover a conservação dos recursos naturais 
+            e incentivar atitudes que harmonizam o desenvolvimento humano com o respeito à Terra.
+        </p>
+    </section>
+
+    <section id="ecossistemas" class="cards">
+        <div class="card">
+            <img src="https://png.pngtree.com/thumb_back/fh260/background/20240522/pngtree-abstract-cloudy-background-beautiful-natural-streaks-of-sky-and-clouds-red-image_15684333.jpg" alt="Preservação da Água">
+            <h3>Recursos Hídricos</h3>
+            <p>
+                A proteção de nascentes, rios e matas ciliares garante o abastecimento 
+                de água limpa para a agricultura e para o consumo urbano.
+            </p>
+        </div>
+
+        <div class="card">
+            <img src="https://png.pngtree.com/thumb_back/fh260/background/20240522/pngtree-abstract-cloudy-background-beautiful-natural-streaks-of-sky-and-clouds-red-image_15684333.jpg" alt="Solo Saudável">
+            <h3>Conservação do Solo</h3>
+            <p>
+                Práticas como a rotação de culturas e o plantio direto evitam a erosão, 
+                mantendo a terra fértil e biologicamente ativa.
+            </p>
+        </div>
+
+        <div class="card">
+            <img src="https://png.pngtree.com/thumb_back/fh260/background/20240522/pngtree-abstract-cloudy-background-beautiful-natural-streaks-of-sky-and-clouds-red-image_15684333.jpg" alt="Energia Limpa">
+            <h3>Energias Renováveis</h3>
+            <p>
+                O uso de energia solar, eólica e biomassa reduz a emissão de gases 
+                poluentes e combate o aquecimento global.
+            </p>
+        </div>
+    </section>
+
+    <section id="acoes" class="conteudo destaque">
+        <h2>Cidades Verdes e Conscientes</h2>
+        <p>
+            Nos centros urbanos, o cuidado com o meio ambiente se traduz em reciclagem, 
+            redução do desperdício, consumo responsável e criação de áreas verdes que 
+            melhoram a qualidade do ar e o bem-estar da população.
+        </p>
+    </section>
+
+    <section id="biodiversidade" class="conteudo">
+        <h2>Biodiversidade em Harmonia</h2>
+        <p>
+            A fauna e a flora são fundamentais para o equilíbrio do planeta. Ao combater o 
+            desmatamento e apoiar o reflorestamento, protegemos polinizadores essenciais 
+            e garantimos a sobrevivência de todas as espécies.
+        </p>
+    </section>
+
+    <footer>
+        <p>Projeto desenvolvido para o Concurso Agrinho 2026 - Categoria Meio Ambiente.</p>
+    </footer>
+
+</body>
+</html>
